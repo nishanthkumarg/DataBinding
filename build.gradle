@@ -5,9 +5,7 @@ buildscript {
         jcenter()
     }
     dependencies {
-        classpath 'com.android.tools.build:gradle:2.2.0-alpha3'
-        // TODO: when the final verison of dataBinder is release, change this to use a version number.
-        classpath 'com.android.databinding:dataBinder:1.+'
+        classpath 'com.android.tools.build:gradle:2.2.0-alpha4'
     }
 }
 
